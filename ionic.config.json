@@ -1,0 +1,7 @@
+{
+  "name": "Tarea4_AngularIoinic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
